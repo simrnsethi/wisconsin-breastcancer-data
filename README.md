@@ -2,8 +2,6 @@
 
 This data has been taken from [here](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/)
 
-The data has the following features:
-
 
 # Relevant information
 
@@ -14,8 +12,7 @@ Number of features: 32
 Features are computed from a digitized image of a fine needle
 aspirate (FNA) of a breast mass.  They describe
 characteristics of the cell nuclei present in the image.
-A few of the images can be found at
-![http://www.cs.wisc.edu/~street/images/](http://www.cs.wisc.edu/~street/images/)
+
 
 Separating plane described above was obtained using
 Multisurface Method-Tree (MSM-T) [K. P. Bennett, "Decision Tree
